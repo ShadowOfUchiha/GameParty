@@ -1,0 +1,27 @@
+
+.accountbar{
+    height: 40rem;
+    margin-top: 7rem;
+    background-color: #1dd1a1;
+}
+
+.accountdata{
+    height: 40rem;
+    margin-top: 7rem;
+    background-color: #1dd1a1;
+}
+
+
+
+.accountbartext{
+    text-decoration: none;
+   
+}
+.accountbartext:hover{
+    color:#222f3e !important; 
+
+    font-weight: bold;
+}
+.accountnaam{
+    color:#222f3e;
+}
